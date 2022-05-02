@@ -8,10 +8,12 @@ public class Meenakshi {
 		
 		String s1= "Harann";
 		
+		String s2= "our family";
 		System.out.println("first line created");
 		
 		System.out.println("second line created");
 		
+		System.out.println("third line created");
 	}
 
 }
